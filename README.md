@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Agencia Ideias](https://agenciaideias.com)
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **React.js, Angular.js, Vue.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [herbertamaro.me](https://herbertamaro.me)
 
-- 💬 Ask me about **reactjs, nextjs, laravel,**
+- 💬 Ask me about **Javascript, Node.js, React.js, Next.js**
 
 - 📫 How to reach me **herbert.webdesigner@gmail.com**
 
