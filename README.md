@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Agencia Ideias](https://agenciaideias.com)
 
-- 🌱 I’m currently learning **React.js, Angular.js, Vue.js, Node.js**
+- 🌱 I’m currently learning **Angular.js, Svelte.js**
 
 - 👨‍💻 All of my projects are available at [herbertamaro.me](https://herbertamaro.com)
 
