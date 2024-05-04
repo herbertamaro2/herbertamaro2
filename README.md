@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React.js, Angular.js, Vue.js, Node.js**
 
-- 👨‍💻 All of my projects are available at [herbertamaro.me](https://herbertamaro.me)
+- 👨‍💻 All of my projects are available at [herbertamaro.me](https://herbertamaro.com)
 
 - 💬 Ask me about **Javascript, Node.js, React.js, Next.js**
 
-- 📫 How to reach me **herbert.webdesigner@gmail.com**
+- 📫 How to reach me **contato@agenciaideias.com**
 
-- 📄 Know about my experiences [herbertamaro.me/curriculum](https://herbertamaro.me/curriculum)
+- 📄 Know about my experiences [herbertamaro.me/curriculum](https://herbertamaro.com/curriculum)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
